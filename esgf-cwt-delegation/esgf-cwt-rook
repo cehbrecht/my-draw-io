@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T15:45:42.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PYI7n9fZ3Hj4qwGi2PBI" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T15:49:46.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WrsgXEPimnS6KRV-r1dw" version="21.2.1" type="github">
   <diagram name="Page-1" id="-D0R_3WEhLiM1xzP-N6L">
     <mxGraphModel dx="954" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,8 +179,8 @@
         <mxCell id="1ahVnr69x9KBJU_H-1SK-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1ahVnr69x9KBJU_H-1SK-79" target="1ahVnr69x9KBJU_H-1SK-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ahVnr69x9KBJU_H-1SK-79" value="&lt;br&gt;Rook instances&lt;br&gt;&lt;br&gt;Restricted data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-200" width="100" height="100" as="geometry" />
+        <mxCell id="1ahVnr69x9KBJU_H-1SK-79" value="&lt;br&gt;Rook instances&lt;br&gt;&lt;br&gt;Restricted data rules" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-200" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1ahVnr69x9KBJU_H-1SK-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1ahVnr69x9KBJU_H-1SK-90" target="1ahVnr69x9KBJU_H-1SK-93">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +197,7 @@
         <mxCell id="1ahVnr69x9KBJU_H-1SK-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1ahVnr69x9KBJU_H-1SK-96" target="1ahVnr69x9KBJU_H-1SK-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ahVnr69x9KBJU_H-1SK-96" value="&lt;br&gt;Use ESGF search&lt;br&gt;to locate&lt;br&gt;datasets" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="1ahVnr69x9KBJU_H-1SK-96" value="&lt;br&gt;Use ESGF search&lt;br&gt;to locate datasets" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="520" y="20" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
